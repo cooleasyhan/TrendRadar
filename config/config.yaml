@@ -111,8 +111,6 @@ platforms:
     name: "格隆汇"
   - id: "github-trending-today"
     name: "GitHub今日趋势"
-  - id: "github"
-    name: "GitHub趋势"
   - id: "juejin"
     name: "掘金"
   - id: "thepaper"
